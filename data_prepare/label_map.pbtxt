@@ -1,0 +1,44 @@
+item {
+    id: 1
+    name: 'topLeft'
+}
+
+item {
+    id: 2
+    name: 'topRight'
+}
+
+item {
+    id: 3
+    name: 'bottomLeft'
+}
+
+item {
+    id: 4
+    name: 'bottomRight'
+}
+
+item {
+    id: 5
+    name: 'soCmnd'
+}
+
+item {
+    id: 6
+    name: 'hoTen'
+}
+
+item {
+    id: 7
+    name: 'ngaySinh'
+}
+
+item {
+    id: 8
+    name: 'nguyenQuan'
+}
+
+item {
+    id: 9
+    name: 'thuongTru'
+}
